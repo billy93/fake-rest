@@ -12,6 +12,7 @@
     { "id":10,  "first_name": "Bobby", "last_name": "Aritonang" }
   ],
   "scenarios": [
-      { "id":1, "name":"Scenario GOKIL"}
+      { "id":1, "name":"Scenario GOKIL"},
+      { "id":2, "name":"Scenario GOKIL 2"}         
   ]
 }
