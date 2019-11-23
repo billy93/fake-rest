@@ -1,6 +1,7 @@
 {
-  "api": {
-    "users": [
+  "api": [
+    {
+      "users": [
         { "id":1, "first_name": "Andreas", "last_name": "Billy Sutandi" },
         { "id":2, "first_name": "Agus", "last_name": "Budiman" },
         { "id":3, "first_name": "Satria", "last_name": "Baja" },
@@ -10,10 +11,10 @@
         { "id":7, "first_name": "Silvi", "last_name": "Setiawati" },
         { "id":8, "first_name": "Gerry", "last_name": "Pakpahan" },
         { "id":9, "first_name": "Kurniawan", "last_name": "Siahaan" },
-        { "id":10,  "first_name": "Bobby", "last_name": "Aritonang" }
-    
+        { "id":10,  "first_name": "Bobby", "last_name": "Aritonang" }    
       ]
-  },
+    }
+  ],
   "users": [
     { "id":1, "first_name": "Andreas", "last_name": "Billy Sutandi" },
     { "id":2, "first_name": "Agus", "last_name": "Budiman" },
