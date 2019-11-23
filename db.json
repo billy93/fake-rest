@@ -1,0 +1,15 @@
+{
+  "user": [
+    { "first_name": "Andreas", "last_name": "Billy" },
+    { "first_name": "Agus", "last_name": "Budiman" },
+    { "first_name": "Satria", "last_name": "Baja" },
+    { "first_name": "Bagus", "last_name": "Adi" },
+    { "first_name": "Handoko", "last_name": "Cahyadi" },
+    { "first_name": "Rendi", "last_name": "Setiawan" },
+    { "first_name": "Silvi", "last_name": "Setiawati" },
+    { "first_name": "Gerry", "last_name": "Pakpahan" },
+    { "first_name": "Kurniawan", "last_name": "Siahaan" },
+    { "first_name": "Bobby", "last_name": "Aritonang" }
+
+  ]
+}
