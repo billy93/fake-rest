@@ -13,6 +13,7 @@
   ],
   "scenarios": [
       { "id":1, "name":"Scenario GOKIL"},
-      { "id":2, "name":"Scenario GOKIL 2"}         
+      { "id":2, "name":"Scenario GOKIL 2"},         
+      { "id":3, "name":"Scenario GOKIL 3"}         
   ]
 }
