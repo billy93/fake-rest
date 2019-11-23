@@ -28,7 +28,7 @@
     { "id":10,  "first_name": "Bobby", "last_name": "Aritonang" }
   ],
   "scenarios": [
-      { "id":1, "name":"Scenario 1000"},
+      { "id":1, "name":"Scenario BARU"},
       { "id":2, "name":"Scenario 2"},
       { "id":3, "name":"Scenario 3"},
       { "id":4, "name":"Scenario 4"},
